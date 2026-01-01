@@ -233,7 +233,7 @@ BEGIN
 END
 
 
-/* **************************************** */
+/* ****************************************
 	
 DEFINE_ACTION_FUNCTION C4_HANDLE_CHARSETS 
 	STR_VAR
@@ -296,7 +296,7 @@ BEGIN
 END
 
 
-/* **************************************** */
+**************************************** */
 		
 DEFINE_PATCH_FUNCTION CLONE_SPELL_HEADER
 	INT_VAR
